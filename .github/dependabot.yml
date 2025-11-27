@@ -8,4 +8,3 @@ updates:
     labels:
       - "dependencies"
       - "security"
-    # El archivo requirements.txt está en el directorio raíz (/)
